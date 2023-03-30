@@ -6,7 +6,7 @@
 
 ## 💻 Sobre o desafio
 
-Nesse desafio foi proposto criar uma página web de uma receita com título, imagem, lista de ingredientes e modo de preparo *********************************************parecida com o layout ilustrativo acima*********************************************. O desafio está dividido em duas partes, estruturação do HTML com o conteúdo e na segunda parte a estilização da página com o CSS.
+Nesse desafio foi proposto criar uma página web *********************************************parecida com o layout ilustrativo acima********************************************* de uma receita com título, imagem, lista de ingredientes e modo de preparo. O desafio está dividido em duas partes, estruturação do HTML com o conteúdo e na segunda parte a estilização da página com o CSS.
 
 ## 👁️ Live Preview
 
