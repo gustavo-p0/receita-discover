@@ -10,7 +10,7 @@ Nesse desafio foi proposto criar uma página web de uma receita com título, ima
 
 ## 👁️ Live Preview
 
-https://gustavo-p0.github.io/receita-discover/
+Confira o link na **descrição** deste repositório.
 
 ## 📚 Tecnologias
 
