@@ -2,7 +2,7 @@
 
 ![Captura de Tela](https://user-images.githubusercontent.com/83771792/228839277-99809cee-3a9d-4ac5-8b78-b9829e251c16.png)
 
-[**Clique aqui**](https://www.notion.so/15acc6a34f744484a2e64a1f115bfbae) para ver a página de instruções do desafio original.
+[**Clique aqui**](https://efficient-sloth-d85.notion.site/Desafio-Piloto-P-gina-de-Receita-15acc6a34f744484a2e64a1f115bfbae) para ver a página de instruções do desafio original.
 
 ## 💻 Sobre o desafio
 
